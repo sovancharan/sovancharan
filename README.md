@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sovan Charan
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for a job
 
 <!---
 sovancharan/sovancharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
