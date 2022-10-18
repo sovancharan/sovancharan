@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sovan Charan
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node js
 - 💞️ I’m looking for a job
 - 📫 How to reach me: www.linkedin.com/in/sovan-charan
 <!---
